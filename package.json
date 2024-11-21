@@ -1,0 +1,29 @@
+{
+  "name": "express_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lorieta/expressPractice.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Lorieta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lorieta/expressPractice/issues"
+  },
+  "homepage": "https://github.com/Lorieta/expressPractice#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
