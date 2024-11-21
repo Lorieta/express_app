@@ -25,7 +25,7 @@ const data = JSON.stringify({
       const result = await response.json();
       console.log('Response:', result);
     } catch (error) {
-      console.error('Error:', error.message);
+      console.error('Erererror:', error.message);
     }
   }
   
